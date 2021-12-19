@@ -252,11 +252,47 @@ nav ul li:hover::after{
     transition-delay: .1s;
     z-index: 1;
 }
-.pic3::before{ 
+.pic3_1::before{ 
 
     text-align: justify;
     margin-top: 30px;
     content: "Tan-ok Festival features the best artists and talents in the province, representing their local festivals through dance interpretations inspired by the unique history, culture and tradition of its people.";
+    position: absolute;
+
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    width: 80%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.pic3_2::before{ 
+
+    text-align: justify;
+    margin-top: 30px;
+    content: "Tan-ok ni Ilocano is a showcase of festival dances from the 21 municipalities and 2 cities of Ilocos Norte.";
+    position: absolute;
+
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    width: 80%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.pic3_3::before{ 
+
+    text-align: justify;
+    margin-top: 30px;
+    content: "Tan-ok ni Ilocano aimed at presenting a lively mix of age-old and contemporary festivals, the event is a gathering of the people of Ilocos Norte in one big stage.";
     position: absolute;
 
     transform: translate(-50%, -50%);

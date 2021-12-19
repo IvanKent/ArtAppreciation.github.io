@@ -216,11 +216,47 @@ nav ul li:hover::after{
     
 }
            /*Kannadiwan Ylocos Festival - pics*/
-.pic1::before{ 
+.pic1_1::before{ 
 
     text-align: justify;
     margin-top: 30px;
-    content: "A festival in the Province of Ilocos Sur commemorating the separation of the two Ilocos provinces in 1818. This festival is a showcase of indigenous performances, religious rituals, as well cooking demos featuring the best of Ilocano dishes.";   
+    content: "A festival in the Province of Ilocos Sur commemorating the separation of the two Ilocos provinces in 1818. ";   
+    position: absolute;
+
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    width: 80%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.pic1_2::before{ 
+
+    text-align: justify;
+    margin-top: 30px;
+    content: "This festival is a showcase of indigenous performances, religious rituals, as well cooking demos featuring the best of Ilocano dishes.";   
+    position: absolute;
+
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    width: 80%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.pic1_3::before{ 
+
+    text-align: justify;
+    margin-top: 30px;
+    content: "It is a celebration that lasts from the last week of January up to the first week of February. Included in the course of events is the commemoration of the foundation day of the province.";   
     position: absolute;
 
     transform: translate(-50%, -50%);
@@ -237,13 +273,46 @@ nav ul li:hover::after{
 /*Kannadiwan Ylocos Festival - pics END*/
 
 /*Burnay Pottery - pics*/
-.pic3::before{ 
+.pic3_1::before{ 
 
     text-align: justify;
     margin-top: 30px;
-    content: "Burnay Pottery is an ancient art from Ilocos this traditional molding unglazed earthen jars. It is made  using the grade A clay that was found in plenty in the Western area of Vigan. The making of burnay is done with just the use of the potter's skillful hands and use of pottery wheel and kiln. (Vigan Ilcocos Sur)";
+    content: "Burnay Pottery is an ancient art from Ilocos this traditional molding unglazed earthen jars.";
     position: absolute;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    width: 80%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.pic3_2::before{ 
 
+    text-align: justify;
+    margin-top: 30px;
+    content: "It is made using the grade A clay that was found in plenty in the Western area of Vigan.";
+    position: absolute;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    width: 80%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.pic3_3::before{ 
+
+    text-align: justify;
+    margin-top: 30px;
+    content: " The making of burnay is done with just the use of the potter's skillful hands and use of pottery wheel and kiln. (Vigan Ilcocos Sur)";
+    position: absolute;
     transform: translate(-50%, -50%);
     color: white;
     font-size: 22px;
@@ -258,11 +327,29 @@ nav ul li:hover::after{
 /*end*/
 
  /*Binatbatan - pics*/
-.pic2::before{ 
+.pic2_1::before{ 
 
     text-align: justify;
     margin-top: 30px;
-    content: "”Binatbatan” is the process of beating cotton pods to remove the seeds for Abel weaving. Which locals interpreted into an occupational dance with the use of two sticks called ”batbat”. Binabatan street dance is one of the main attractions during the week-long celebrations.";   
+    content: "”Binatbatan” is the process of beating cotton pods to remove the seeds for Abel weaving. Which locals interpreted into an occupational dance with the use of two sticks called ”batbat”. ";   
+    position: absolute;
+
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    width: 80%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.pic2_2::before{ 
+
+    text-align: justify;
+    margin-top: 30px;
+    content: "Binabatan street dance is one of the main attractions during the week-long celebrations.";   
     position: absolute;
 
     transform: translate(-50%, -50%);
@@ -277,12 +364,43 @@ nav ul li:hover::after{
     z-index: 1;
 }
 
-.pic4::before{ 
+.pic4_1::before{ 
 
     text-align: justify;
     margin-top: 30px;
-    content: "“Abel” or “inabel” is a fabric customarily made of cotton fiber turned into spools of beeswax-brushed yarn & woven in a handloom. From it comes out beautiful blankets, pillowcases, tablemats, sweaters & shawls. Traditional designs include the geometric “binakol” or “inuritan”, the spiral “kusikos” & the flower called “sinan-sabong”. The abel is the traditional woven product of Vigan and the Ilocos Region. The abel cloth is known as strong and colourful material. It is made from yarns of cotton or sagut that are sourced from the lands in northern Luzon. The abel fabrics are strong and beautiful that’s why it is used as heirlooms of some families. ";
+    content: "“Abel” or “inabel” is a fabric customarily made of cotton fiber turned into spools of beeswax-brushed yarn & woven in a handloom. From it comes out beautiful blankets, pillowcases, tablemats, sweaters & shawls. Traditional designs include the geometric “binakol” or “inuritan”, the spiral “kusikos” & the flower called “sinan-sabong”. ";
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    width: 90%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.pic4_2::before{ 
 
+    text-align: justify;
+    margin-top: 30px;
+    content: "The abel is the traditional woven product of Vigan and the Ilocos Region. The abel cloth is known as strong and colourful material. It is made from yarns of cotton or sagut that are sourced from the lands in northern Luzon. ";
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    width: 90%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.pic4_3::before{ 
+
+    text-align: justify;
+    margin-top: 30px;
+    content: "The abel fabrics are strong and beautiful that’s why it is used as heirlooms of some families. ";
     transform: translate(-50%, -50%);
     color: white;
     font-size: 20px;
