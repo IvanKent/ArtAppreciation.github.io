@@ -306,6 +306,96 @@ nav ul li:hover::after{
     transition-delay: .1s;
     z-index: 1;
 }
+.hand1_1::before{ 
+    text-align: justify;
+    margin-top: 30px;
+    content: "Kalinga pottery is an ancient clay art tradition that is widely distributed in Kalinga, a province in the Philippines' Cordillera Mountains. Kalinga Pottery has its unique geometric motifs.  ";
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    width: 90%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.hand1_2::before{ 
+    text-align: justify;
+    margin-top: 30px;
+    content: "Kalinga pottery comprises three different types of ceramic vessels: rice cooking (ittoyom); vegetable/meat cooking (oppaya); and water storage (immosso) pots.";
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    width: 90%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.hand2_1::before{ 
+    text-align: justify;
+    margin-top: 30px;
+    content: "The basketry from Kalinga shows fine and disntinct craftsmanship. ";
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    width: 90%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.hand2_2::before{ 
+    text-align: justify;
+    margin-top: 30px;
+    content: "One perfect example of it is the labba, an antique bowl-shaped basket that is used as rice storage and vegetables. The labba is made and plaited from rattan or from strips of bamboo.";
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    width: 90%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.hand3_1::before{ 
+    text-align: justify;
+    margin-top: 30px;
+    content: "Kalinga traditional garments include the ka-in wraparound skirt for women and the be-e g-string for men. ";
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    width: 90%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.hand3_2::before{ 
+    text-align: justify;
+    margin-top: 30px;
+    content: "There are different design variants of each, such as the pilakpak, ilaglis, silugwid, and gilamat for the skirt and kilayao, sillayuti, and pilagpagen for the g-strings.";
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    width: 90%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
 h4{
     color: rgb(0, 0, 0);
     position: absolute;
