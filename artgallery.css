@@ -135,6 +135,7 @@ h2:hover{
     margin-right: auto;
     width: 50%;
   
+  
 }
 
 .pic{
@@ -534,13 +535,124 @@ p{
     font-size: 30px;
 }
 .dance1::before{ 
-    text-align: center;
+    text-align: justify;
     margin-top: 100px;
-    content: "Manag Biday ";   
+    content: "Manag Biday is a courtship dance usually performed by young people.     ";   
     position: absolute;
     transform: translate(-50%, -50%);
     color: white;
-    font-size: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 80%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.dance2::before{ 
+    text-align: justify;
+    margin-top: 100px;
+    content: "Oasiwas Dance is dance in which an oil lamp is balanced on the dancer's head as he swings around lighted lamps wrapped in porous cloth or fishnet. The name of the dance comes from the Pangasinense word for swinging.     ";   
+    position: absolute;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    width: 80%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.dance3::before{ 
+    text-align: justify;
+    margin-top: 100px;
+    content: "Kuratsa Pasuquiña is a dance during birthday parties and festivities.";   
+    position: absolute;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    width: 80%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.dance4::before{ 
+    text-align: justify;
+    margin-top: 100px;
+    content: "Ilocana a Nasudi (Chaste Ilocano) is a dance that portrays a chaste and virtuous Ilocana. This dance may be performed by four pairs.    ";   
+    position: absolute;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    width: 80%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.dance5::before{ 
+    text-align: justify;
+    margin-top: 100px;
+    content: "Rabong (Bamboo Shoot) is a dance glorifying the bamboo shoot as a delicacy of the Ilocanos. In Rabong, the participants sing the lyrics themselves.     ";   
+    position: absolute;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    width: 80%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.festival1::before{ 
+    text-align: justify;
+    margin-top: 100px;
+    content: "Pamulinawen festival- Laoag City February 10 Our Lady of Peace Pamulinawen is the name of a woman made popular in the classic Ilocano song titled... Pamulinawen.    ";   
+    position: absolute;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    width: 80%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.festival2::before{ 
+    text-align: justify;
+    margin-top: 100px;
+    content: "Pinakbet Festival - Sta. Maria, Ilocos Sur April 23 it features street dances and cooking competitions and honours the Sta. Maria’s farmers’ industry and their housewives’ cooking skills. Pinakbet came from the contracted Ilokano word 'pinakebbet' which means 'shrunk' or 'shriveled.' ";   
+    position: absolute;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    width: 80%;
+    margin-top: -100px;
+    opacity: 0;
+    transition: .3s;
+    transition-delay: .1s;
+    z-index: 1;
+}
+.festival3::before{ 
+    text-align: justify;
+    margin-top: 100px;
+    content: "Bangus Festival is the brainchild of former Dagupan mayor Benjamin Lim, seeking to promote the city as the Bangus (milkfish) Capital of the World. 2003 saw the festival featured in the Guiness Book of World Records when it secured the record for Longest Barbeque in the World (later taken by the town of Bayambang, Pangasinan in 2014).";
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 25px;
     font-weight: bold;
     width: 80%;
     margin-top: -100px;
